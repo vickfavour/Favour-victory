@@ -72,6 +72,20 @@ main {
     margin: 0 auto;
     padding: 40px 20px;
 }
+.artist-photo, .artist-video {
+    width: 100%;
+    max-width: 500px;
+    border-radius: 20px;
+    margin: 20px auto;
+    display: block;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+}
+
+.artist-photo {
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+}
 
 section {
     background: rgba(255, 255, 255, 0.03);
