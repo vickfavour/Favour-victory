@@ -326,11 +326,11 @@
             <h2 class="section-title">Contact</h2>
             <div class="contact-grid">
                 <!-- EMAIL - Replace with your real email -->
-                <a href="mailto:your-email@example.com" class="contact-item">
+                <a href="mailto:bigdollar7000@gmail.com" class="contact-item">
                     <div class="contact-icon">📧</div>
                     <div class="contact-info">
                         <h3>Email</h3>
-                        <p>your-email@example.com</p>
+                        <p>bigdollar7000@gmail.com</p>
                     </div>
                 </a>
 
