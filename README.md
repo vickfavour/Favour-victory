@@ -1,6 +1,6 @@
-# 🎤 Favour-Victory (Rappo) — Official Website
+# 🎤 YOUNG-DOLLAR (Rappo) — Official Website
 
-Welcome to the official website of **Favour-Victory**, also known as **Rappo** — bringing raw energy and authentic stories through every verse.
+Welcome to the official website of **young-dollar**, also known as **Rappo** — bringing raw energy and authentic stories through every verse.
 
 
 ---
@@ -45,7 +45,7 @@ This is a personal artist website built to showcase:
 
 ## 📝 License
 
-© 2026 Favour-Victory. All rights reserved.
+© 2026 young-dollar. All rights reserved.
 
 ---
 
