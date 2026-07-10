@@ -2,8 +2,6 @@
 
 Welcome to the official website of **Favour-Victory**, also known as **Rappo** — bringing raw energy and authentic stories through every verse.
 
-![Website](https://img.shields.io/badge/Website-Live-brightgreen)
-![Built With](https://img.shields.io/badge/Built%20With-HTML%20%7C%20CSS-blue)
 
 ---
 
@@ -36,7 +34,7 @@ This is a personal artist website built to showcase:
 
 | Platform | Link |
 |----------|------|
-| 📧 Email | [your-bigdollar7000@gmil.com.com](mailto: bigdollar7000@gmail.com) |
+| 📧 Email | (gmail: bigdollar7000@gmail.com) |
 | ✈️ Telegram | [@yourusername](https://t.me/yourusername) |
 | 💬 WhatsApp | [+234 9025 270610](https://wa.me/1234567890) |
 | 📷 Instagram | [@yourhandle](https://instagram.com/yourhandle) |
