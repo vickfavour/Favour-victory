@@ -1,7 +1,13 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+    .hero {
+    text-align: center;
+    padding: 80px 20px 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    }
+    
 }.artist-name {
     font-size: clamp(4rem, 15vw, 10rem);  /* ← MADE BIGGER */
     font-weight: 900;
@@ -14,6 +20,19 @@
     text-shadow: 0 0 60px rgba(255, 0, 110, 0.3);
     margin-bottom: 10px;
     animation: glow 3s ease-in-out infinite alternate;
+.artist-name {
+    font-size: clamp(4rem, 15vw, 10rem);
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+    text-align: center;  /* ← ADD THIS */
+    background: linear-gradient(45deg, #ff006e, #8338ec, #3a86ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin: 0 auto 10px auto;  /* ← CENTER IT */
+    display: block;
+}
 }
 
 .artist-photo {
@@ -95,10 +114,24 @@ main {
 }
 
 .artist-photo {
+    width: 200px;
     height: 200px;
-    object-fit: cover;
     border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid rgba(255, 255, 255, 0.1);
+    margin: 20px auto;  /* ← CENTER IT */
+    display: block;
+    box-shadow: 0 0 40px rgba(131, 56, 236, 0.4);
 }
+.tagline {
+    font-size: 1.2rem;
+    color: #888;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    text-align: center;  /* ← ADD THIS */
+    margin-bottom: 30px;
+}
+
 
 section {
     background: rgba(255, 255, 255, 0.03);
