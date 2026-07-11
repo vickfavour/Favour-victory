@@ -37,7 +37,7 @@ How to join in: Ask questions, share what works, learn from others, and grow tog
 
 | Platform | Link |
 |----------|------|
-| 📧 Email | (bigdollar7000@gmail.com) |
+| 📧 Email | bigdollar7000@gmail.com |
 | ✈️ Telegram | [@vick_favour](https://t.me/vick_favour) |
 | 💬 WhatsApp | [+234 9025 270610](https://wa.me/1234567890) |
 | 📷 Instagram | [@yourhandle](https://instagram.com/yourhandle) |
