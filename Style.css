@@ -88,8 +88,8 @@ nav ul li a:hover {
 
 /* === PHOTO SIZE - CHANGE THESE NUMBERS === */
 .artist-photo {
-    width: 150px;        /* ← Change this for size */
-    height: 150px;       /* ← Change this for size */
+    width: 100px;        /* ← Change this for size */
+    height: 100px;       /* ← Change this for size */
     border-radius: 50%;
     object-fit: cover;
     border: 3px solid rgba(255, 255, 255, 0.1);
