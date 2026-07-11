@@ -11,7 +11,7 @@ Welcome to the official website of **money_matters**, also known as **Rappo** �
 
 ---
 
-## ##📋 About##
+## 📋 About##
 
 What we are: A community built around one simple idea — money shouldn't be confusing or intimidating.
  
@@ -24,7 +24,7 @@ Our vibe: No judgment, no jargon, no gatekeeping. Just people helping people.
 How to join in: Ask questions, share what works, learn from others, and grow together.
 ---
 
-## 🛠️ Built With##
+## 🛠️ Built With
 
 | Technology | Purpose |
 |------------|---------|
